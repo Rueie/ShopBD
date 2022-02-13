@@ -1,0 +1,40 @@
+C:\Users\nik00\Desktop\попытка\example\example\bin\Debug\example.exe.config
+C:\Users\nik00\Desktop\попытка\example\example\bin\Debug\example.exe
+C:\Users\nik00\Desktop\попытка\example\example\bin\Debug\example.pdb
+C:\Users\nik00\Desktop\попытка\example\example\obj\Debug\example.Form1.resources
+C:\Users\nik00\Desktop\попытка\example\example\obj\Debug\example.Form2.resources
+C:\Users\nik00\Desktop\попытка\example\example\obj\Debug\example.Properties.Resources.resources
+C:\Users\nik00\Desktop\попытка\example\example\obj\Debug\example.csproj.GenerateResource.cache
+C:\Users\nik00\Desktop\попытка\example\example\obj\Debug\example.exe
+C:\Users\nik00\Desktop\попытка\example\example\obj\Debug\example.pdb
+C:\Users\nik00\Desktop\попытка\example\example\obj\Debug\example.csprojAssemblyReference.cache
+C:\Users\nik00\Desktop\попытка\example\example\obj\Debug\example.Form3.resources
+C:\Users\nik00\Desktop\попытка\example\example\obj\Debug\example.Form4.resources
+C:\Users\nik00\Desktop\попытка\example\example\obj\Debug\example.Form5.resources
+C:\Users\nik00\Desktop\попытка\example\example\obj\Debug\example.Form6.resources
+C:\Users\nik00\Desktop\попытка\example\example\obj\Debug\example.Form7.resources
+C:\Users\nik00\Desktop\попытка\example\example\bin\Debug\Database1.mdf
+C:\Users\nik00\Desktop\попытка\example\example\bin\Debug\Database1_log.ldf
+C:\Users\nik00\Desktop\попытка\example\example\obj\Debug\example.Form8.resources
+C:\Users\nik00\Desktop\попытка\example\example\obj\Debug\example.Form10.resources
+C:\Users\nik00\Desktop\попытка\example\example\obj\Debug\example.Form9.resources
+D:\учеба\пятый сем\ТРПО\лаба 3\попытка\example\example\bin\Debug\Database1.mdf
+D:\учеба\пятый сем\ТРПО\лаба 3\попытка\example\example\bin\Debug\Database1_log.ldf
+D:\учеба\пятый сем\ТРПО\лаба 3\попытка\example\example\bin\Debug\example.exe.config
+D:\учеба\пятый сем\ТРПО\лаба 3\попытка\example\example\bin\Debug\example.exe
+D:\учеба\пятый сем\ТРПО\лаба 3\попытка\example\example\bin\Debug\example.pdb
+D:\учеба\пятый сем\ТРПО\лаба 3\попытка\example\example\obj\Debug\example.csprojAssemblyReference.cache
+D:\учеба\пятый сем\ТРПО\лаба 3\попытка\example\example\obj\Debug\example.Form1.resources
+D:\учеба\пятый сем\ТРПО\лаба 3\попытка\example\example\obj\Debug\example.Form10.resources
+D:\учеба\пятый сем\ТРПО\лаба 3\попытка\example\example\obj\Debug\example.Form2.resources
+D:\учеба\пятый сем\ТРПО\лаба 3\попытка\example\example\obj\Debug\example.Form3.resources
+D:\учеба\пятый сем\ТРПО\лаба 3\попытка\example\example\obj\Debug\example.Form4.resources
+D:\учеба\пятый сем\ТРПО\лаба 3\попытка\example\example\obj\Debug\example.Form5.resources
+D:\учеба\пятый сем\ТРПО\лаба 3\попытка\example\example\obj\Debug\example.Form6.resources
+D:\учеба\пятый сем\ТРПО\лаба 3\попытка\example\example\obj\Debug\example.Form7.resources
+D:\учеба\пятый сем\ТРПО\лаба 3\попытка\example\example\obj\Debug\example.Form8.resources
+D:\учеба\пятый сем\ТРПО\лаба 3\попытка\example\example\obj\Debug\example.Form9.resources
+D:\учеба\пятый сем\ТРПО\лаба 3\попытка\example\example\obj\Debug\example.Properties.Resources.resources
+D:\учеба\пятый сем\ТРПО\лаба 3\попытка\example\example\obj\Debug\example.csproj.GenerateResource.cache
+D:\учеба\пятый сем\ТРПО\лаба 3\попытка\example\example\obj\Debug\example.exe
+D:\учеба\пятый сем\ТРПО\лаба 3\попытка\example\example\obj\Debug\example.pdb

@@ -1,0 +1,1 @@
+﻿select DISTINCT Товары.Категория from Товары
